@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.886414"
+   height="99.930962"
+   viewBox="0 0 99.886413 99.930962"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logos-rocketship.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4422"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4424"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#c2281b;fill-opacity:1;fill-rule:evenodd;stroke:#c2281b;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4146"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#c2281b;fill-opacity:1;fill-rule:evenodd;stroke:#c2281b;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect3340"
+       is_visible="true"
+       offset_points="8.2783811,-11.250223 | 10.5,1 | 21,1"
+       sort_points="true"
+       interpolator_type="SpiroInterpolator"
+       interpolator_beta="1"
+       start_linecap_type="peak"
+       linejoin_type="miter"
+       miter_limit="4.1"
+       end_linecap_type="peak" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3338"
+       is_visible="true"
+       pattern="M 0,0 -243.03108,-211.17944"
+       copytype="repeated_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0"
+       pattern-nodetypes="cc" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-121.93387"
+     inkscape:cy="-8.94942"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-132.64816,-52.053242)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#c2281b;stroke-width:19.60000038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:35.20000076;stroke-dasharray:none;stroke-opacity:1"
+       id="path3336"
+       sodipodi:cx="260"
+       sodipodi:cy="229.50507"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.5120153"
+       sodipodi:radius="190.1528"
+       sodipodi:argument="-18.163826"
+       sodipodi:t0="0"
+       d="m 260,229.50507 c 6.30311,5.15709 -3.84193,11.04079 -8.57143,10.47618 -12.81666,-1.53006 -16.43826,-17.38847 -12.38094,-27.61905 7.25759,-18.30011 30.41861,-22.67503 46.66667,-14.28569 23.84467,12.3117 29.07493,43.61767 16.19044,65.71428 -17.17299,29.45132 -56.87566,35.54304 -84.7619,18.0952 -35.09199,-21.95632 -42.04615,-70.16148 -19.99995,-103.80952 26.70089,-40.75227 83.46294,-48.56948 122.85713,-21.9047 46.4247,31.42352 55.10552,96.77413 23.80946,141.90475 -36.13253,52.1051 -110.09181,61.65002 -160.95237,25.71422 C 125.06612,282.9582 114.65668,200.37667 155.23814,143.79075 200.76442,80.309898 291.9778,69.035589 354.28575,114.26702 c 69.17363,50.21547 81.3131,150.06776 31.42848,218.09523 -54.90128,74.86865 -163.3978,87.87352 -237.14285,33.33323 C 68.005987,306.111 54.135501,188.96612 113.3334,109.50502 c 2.85684,-3.83473 5.85903,-7.56114 8.99752,-11.168979"
+       transform="matrix(0.25702946,-0.13723261,-0.1203761,0.25856277,147.21806,74.403301)"
+       inkscape:path-effect="#path-effect3340;#path-effect3338" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="RocketShip">
+    <g
+       id="g4331"
+       transform="matrix(-1,0,0,1,70.076057,2.873851)">
+      <g
+         id="Legs">
+        <g
+           id="g4261">
+          <path
+             id="path4263"
+             style="clip-rule:evenodd;fill:#cccccc;fill-rule:evenodd"
+             d="m 38,36.013 -6,6 -4,4 0,6 -6,10 4,2 14,-14 -2,-14 z m -10,-10 -14,-2 -14,14 2,4 10,-6 6,0 4,-4 6,-6 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="Flames">
+        <g
+           id="g4266">
+          <path
+             id="path4268"
+             style="fill:#ffcc66"
+             d="m 10,44.013 c -3.939,5.748 -9.974,12.835 -10,16 -0.021,2.403 1.576,4.021 4,4 3.217,-0.027 10.011,-6.031 16,-10 l -10,-10 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="Flames_1_">
+        <g
+           id="g4271">
+          <path
+             id="path4273"
+             style="fill:#ed7161"
+             d="m 16,42.013 c -3.939,5.748 -12,12.835 -12,16 0,2.091 0.201,2 2,2 3.217,0 10.011,-8.031 16,-12 l -6,-6 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="Body_2_">
+        <g
+           id="g4276">
+          <path
+             id="path4278"
+             style="fill:#387aa7"
+             d="M 60,0.013 C 53.714,0.402 42.862,1.15 30,14.013 20.539,23.474 12.239,37.231 8.348,46.36 l 9.367,9.367 C 26.793,51.874 40.459,43.553 50,34.013 c 12.779,-12.779 13.507,-23.669 14,-30 0.22,-2.826 -1.386,-4.162 -4,-4 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="Body_3_">
+        <g
+           id="g4281">
+          <path
+             id="path4283"
+             style="fill:#48a0dc"
+             d="M 60,0.013 C 53.714,0.402 42.862,1.15 30,14.013 22.276,21.736 15.336,32.32 10.922,40.918 L 23.157,53.153 C 31.703,48.751 42.222,41.791 50,34.013 c 12.779,-12.779 13.507,-23.669 14,-30 0.22,-2.826 -1.386,-4.162 -4,-4 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="Glass">
+        <g
+           id="g4286">
+          <circle
+             id="circle4288"
+             style="fill:#4d4d4d"
+             r="8"
+             cy="16.013"
+             cx="48" />
+        </g>
+      </g>
+      <g
+         id="Glass_1_">
+        <g
+           id="g4291">
+          <circle
+             id="circle4293"
+             style="fill:#ffffff"
+             r="4"
+             cy="16.013"
+             cx="48" />
+        </g>
+      </g>
+      <g
+         id="g4295" />
+      <g
+         id="g4297" />
+      <g
+         id="g4299" />
+      <g
+         id="g4301" />
+      <g
+         id="g4303" />
+      <g
+         id="g4305" />
+      <g
+         id="g4307" />
+      <g
+         id="g4309" />
+      <g
+         id="g4311" />
+      <g
+         id="g4313" />
+      <g
+         id="g4315" />
+      <g
+         id="g4317" />
+      <g
+         id="g4319" />
+      <g
+         id="g4321" />
+      <g
+         id="g4323" />
+    </g>
+  </g>
+</svg>

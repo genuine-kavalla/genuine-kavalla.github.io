@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+*orig
+# Remove test images from directory
+images/100x100
+images/1140x350
+images/555x300

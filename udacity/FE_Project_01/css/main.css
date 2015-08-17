@@ -1,0 +1,108 @@
+/* System level formatting */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+img {
+    margin: auto;
+    width:100%;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    color: lightgrey;
+    background-color: lightgrey;
+}
+
+  /* Site-wide link format */
+a {
+    color: #c2281b;
+}
+a:link {
+    text-decoration: none;
+    color: #c2281b;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #fc527d;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #c2281b;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 980px;
+}
+
+/* Header specific styling */
+img.company-logo {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.header-text {
+    font-weight: 100;
+    color: #c2281b;
+}
+
+/* Portfolio specific styling */
+.portfolio {
+    font-weight: 400;
+    color: #c2281b;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+    border: 1px solid lightgray;
+}
+.portfolio-item img {
+    max-width: 280px;
+}
+
+.caption {
+    font-weight: 500;
+    font-size: 1.3em;
+    margin: auto;
+    padding: 5px 0 0 0;
+}
+
+/* Modal styling */
+.modal-dialog {
+    max-width: 280px;
+}
+
+/* Media queries */
+@media only screen and (max-width: 412px) {
+    /* Size text for smaller screens */
+    h1 {
+        font-size: 1.4em;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    h3 {
+        font-size: 1.1em;
+    }
+
+    h4 {
+        font-size: 1.0em;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    /* Prevent portfolio items from taking up 100% of available row */
+    .portfolio-item {
+        max-width: 280px;
+    }
+}
